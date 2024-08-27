@@ -10,13 +10,14 @@ body {
     width: 100%;
     background-size: cover;
     background-position: center;
-    margin-top: -80px;
+    margin-top: -200px;
 }
 
 .container {
     color:white;
     font-size: 30px;
-    margin-left: 80px;
+    margin-left: 20px;
+    margin-top: 200px;
 
     
 }
@@ -29,7 +30,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-left: 800px;
+    margin-left: 200px;
     margin-top: -80px;
 
 }
