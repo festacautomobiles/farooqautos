@@ -6,7 +6,7 @@ p {
 body {
     background: url(./images/Gallery_20240510_165738.png);
     background-repeat: no-repeat;
-    height: 130vh;
+    height: 80vh;
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -16,7 +16,7 @@ body {
 .container {
     color:white;
     font-size: 30px;
-    margin-left: 20px;
+    margin-left: -70px;
     margin-top: 200px;
 
     
